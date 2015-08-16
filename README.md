@@ -18,6 +18,7 @@ Replace:
 	s	substitute single character with new text
 	C	change to end of line
 	S	substitute entire line - deletes line, enters insertion mode	
+	viwp	replace word with content of clipboard
 
 Insert:
 	a	enter insertion mode after current character
@@ -148,4 +149,4 @@ _	similar to "^" but uses numeric prefix oddly
 ^_	UNBOUND
 ^?	(DELETE) UNBOUND
 
-Source : http://hea-www.harvard.edu/~fine/Tech/vi.html
+http://hea-www.harvard.edu/~fine/Tech/vi.html
